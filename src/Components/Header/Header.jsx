@@ -35,7 +35,7 @@ const Header = () => {
                 </span>
                 <div>
                   <p>Deliverd to</p>
-                  <span>Ethiopia</span>
+                  <span>USA</span>
                 </div>
               </div>
             </div>
